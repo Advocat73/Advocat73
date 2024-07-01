@@ -11,3 +11,8 @@
 ![flutter](https://img.shields.io/badge/-SQL-gray)
 ![flutter](https://img.shields.io/badge/-Docker-yellowgreen)
 
+#### Contacts:
+
+Телеграм: https://t.me/Toropov_Alex
+
+Телефон: +79062387723
